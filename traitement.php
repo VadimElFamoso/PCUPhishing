@@ -2,7 +2,7 @@
 $serveur="localhost";
 $dbname="pcuphishing";
 $user="root";
-$pass="Vadimousse88150*";
+$pass="mdpbdd"
 
 $login = $_POST["login"];
 $password = $_POST["password"];
